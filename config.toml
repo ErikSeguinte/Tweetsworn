@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://heuristic-panini-f9009f.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TweetSworn"
 theme = "story"
+[params]
+   author = "Erik 2"
