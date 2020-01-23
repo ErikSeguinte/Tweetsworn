@@ -7,6 +7,8 @@ classes:
  - feature-justify
  - feature-depth
 author: "Erik Seguinte"
+image: "/img/default-header.jpg"
+credit: "https://pixabay.com/photos/nature-tree-fog-waters-snow-lake-3091991/"
 ---
 
 
