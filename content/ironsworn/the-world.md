@@ -39,6 +39,7 @@ Leadership is as varied as the people. Some communities are governed by the head
 
 ### Defense
 Here in the Ironlands, supplies are too precious, and the lands are too sparsely populated, to support organized fighting forces. When a community is threatened, the people stand together to protect their own.
+
 > Quest Starter: A settlement is unable, or unwilling, to defend itself against an imminent threat. Why? What peril do they face? What will you do to protect them?
 
 ### Mysticism
@@ -48,16 +49,25 @@ Some still find comfort in the old ways. They call on mystics to divine the fort
 
 ### Religion
 A few Ironlanders still make signs or mumble prayers out of habit or tradition, but most believe the gods long ago abandoned us.
+
 > Quest Starter: A charismatic Ironlander, encouraging her followers to renounce the vestiges of Old World religions, proposes a new path for this new world. What doctrine does she teach? What does she seek to achieve? Are you sworn to aid or stop her?
 
 ### Firstborn
 The firstborn have passed into legend. Some say the remnants of the old tribes still dwell in deep forests or high mountains. Most believe they were never anything more than myth.
+
 > Quest Starter: Someone obsessed with the firstborn wants to find evidence of their existence. This will require an expedition into the far reaches of the Ironlands. What is your role in this mission?
 
 ### Beasts
 The beasts of old are nothing but legend. A few who travel into the deep forests and high mountains return with wild tales of monstrous creatures, but they are obviously delusional. No such things exist.
+
 > Quest Starter: You were witness to an attack by what you thought was an animal of monstrous proportions. No one believes you. In fact, you are accused of the murder you blame on this beast. How can you prove your innocence? Can you even trust your own memories of the event?
 
 ### Horrors
 The dead do not rest in the Ironlands. At night we light torches, scatter salt, and post sentries at the gate. It is not enough. They are coming.
+
 > Quest Starter: A group of Ironlanders establish a settlement in a territory cursed by a malevolent horror. What evil plagues this land? Why are the Ironlanders so intent on settling here? Will you aid them, or attempt to force them to give up this foolish undertaking?
+
+### Culture
+Ironlanders choose which of their relations to honor when they take their names as adults. And parents take great pride in this. You can be you father's daughter, your mother's son, your sister's brother, or can you be the child of no one.
+
+> Quest Starter: In your travels, you find someone who has taken your name. Who are they, what is their relationship to you? What does this mean for you both?
