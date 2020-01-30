@@ -10,8 +10,7 @@ author: "Erik Seguinte"
 image: "/img/default-header.jpg"
 credit: "https://pixabay.com/photos/nature-tree-fog-waters-snow-lake-3091991/"
 ---
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Ironsworn?src=hash&amp;ref_src=twsrc%5Etfw">#Ironsworn</a> <a href="https://twitter.com/hashtag/Tweetsworn?src=hash&amp;ref_src=twsrc%5Etfw">#Tweetsworn</a><br>The camera flies over a snow covered forest until it hits upon a rocky cliff face. It climbs up to reveal the small village of Lowhope where children are sparring with blunted spears.</p>&mdash; Erik Seguinte, maybe NOT a pod person (@primefactorx01) <a href="https://twitter.com/primefactorx01/status/1222635972132663302?ref_src=twsrc%5Etfw">January 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> test test
+[Source tweet](https://twitter.com/primefactorx01/status/1222635972132663302)
 
 _The camera flies over a snow covered forest until it hits upon a rocky cliff face. It climbs up to reveal the small village of Lowhope where children are sparring with blunted spears.  They are under the supervision of a large woman with a braids of black hair and skin of smooth, red-brown ochre._
 
@@ -26,3 +25,4 @@ Wynne could see immediately that this was different. The broken were carrying li
 Wynne turned and ran while others around him continued to gawk. By the time he arrived at their storehouse, it was already catching. Broken danced around it as if it were a festival.
 
 `Enter the Fray: 4 vs 10 & 9, miss`
+
