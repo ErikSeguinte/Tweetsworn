@@ -56,3 +56,66 @@ Wynne manages to maneuver the broken until they are pressed up against a wall wi
     
 With a powerful lunge, Wynne's spear drives through a man an impales him and the wall behind. The last remaining opponent flees as Wynne could feel wetness from falling snow that had melted from the heat of the fire. At least the fire will be put out.
 
+Nyssa, the woman who was training the younglings, is examining the storehouse. "Fuck", she says. "We're not in no danger of starving right this second, but we were _already_ going to have a lean winter.
+
+"It was my fault." Says Wynne. "I'll make sure the village survives the winter." He touches his spearhead to his chest over his heart. "I swear it."
+
+    Swear an Iron vow [4|4&2]: Weak hit
+
+Nyssa quirks an eyebrow. "And how do you plan on doing that."
+
+"I'll head to Axebridge. I'll figure it out from there."
+
+"You have the most _detailed_ plans.
+
+Wynne smiled. "I wasn't the one who decided to Draw the circle over a kid crying. And now you have to deal with being village chief.
+
+"That dottering woolhead deserved it. He's a grown man. He wasn't sparring with Kione as much as bullying him just because he could."
+
+"And you had to go and show him that someone could to that to _him_ too, huh?"
+
+"It wasn't going to be you. Your spearwork is just a step and a half above Kione's.
+
+Wyne starts to say thing but stops. Abruptly, he says "I'll leave in the morning when I have more sun."
+
+When he makes his way back to his smith with Ivy when the dog starts sniffing at something and bounds her way in, barking. "What is it, Girl? Broken hiding in there?"
+
+The dog's barking turns into a concerned whisper as if in response.
+
+
+Walking in with his spear at the ready, he finds a broken woman in the back corner of the room. At first, Wynne things she's painted her skin with garish crimson before he realizes that it's her own blood. Far too much for her to survive. She has a bundle in her arm.
+
+She is repeating herself. It's starting to sound familiar. Confused, Wynne concentrates on it. It sounds... like Skulde.
+
+"Please... Please.... no kill. Protect"
+
+Wynne, on his knees, takes the bundle as the woman loses her strength and passes to the next life.
+
+He unwraps the bundle.
+
+He finds a child. No more than 2 winters old.
+
+And he has shockingly bright blue hair.
+
+"What the fuck." 
+
+Ivy licks the child as it whimpers.
+
+Somehow, this child is of Skulde blood.
+
+Like Wynne himself.
+
+"What. The. Fuck"
+
+
+
+
+
+
+
+
+
+
+
+
+
